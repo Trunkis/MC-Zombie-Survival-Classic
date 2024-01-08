@@ -1,2 +1,0 @@
-execute at @e[tag=zcs.fastchargedcreeperspawn,sort=random,limit=1] run summon creeper ~ ~ ~ {powered:1,Fuse:15,ActiveEffects:[{Id:1,Duration:60000,Amplifier:1,ShowParticles:1b}]}
-scoreboard players add #Amount zsc.mob.amount 1
