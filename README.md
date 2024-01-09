@@ -1,15 +1,13 @@
-# Adford / Zombie Survival Classic | EPS 7 / v0.8.11
-## Classic version of Zombie Survival 1 from before major updates with a whole load general improvements and optional features and is automatic!
-
-# // Game //
-## Survive a strengthing horde of endless mobs with your mates to reach the highest wave anyone could ever reach in this Tough, Cooperative wave-based game built from scratch using the vanilla commands Minecraft provides.
+# ZSCreator | Beta 5
+## Creator Tool used to make custom ZSC an ZS:NB maps
 
 # // Features //
-### Automatic Play meaning everyone can play instead of the old way of someone having to manage the game.
-### Whole ton of Configs to tinker around with.
-### Hard and Normal + Custom Difficulty!
-### General Improvements
-### Custom Map Support with ZSCreator
+### Easy to place and remove elements.
+### Map Configs to tinker with.
+### Useful Element Viewer to tell you what element you are looking at is. 
+
+# // Wiki //
+# Visit the wiki by going to the wiki on this repo!
 
 ## \\ Links \\
 ### https://trello.com/b/dIMZX37N/zombie-survival-classic
